@@ -1,0 +1,13 @@
+C:\Users\cdman806\Documents\SY22-23\VB\tip calculator\tip calculator\bin\Debug\tip calculator.exe.config
+C:\Users\cdman806\Documents\SY22-23\VB\tip calculator\tip calculator\bin\Debug\tip calculator.exe
+C:\Users\cdman806\Documents\SY22-23\VB\tip calculator\tip calculator\bin\Debug\tip calculator.pdb
+C:\Users\cdman806\Documents\SY22-23\VB\tip calculator\tip calculator\bin\Debug\tip calculator.xml
+C:\Users\cdman806\Documents\SY22-23\VB\tip calculator\tip calculator\obj\Debug\tip calculator.vbproj.AssemblyReference.cache
+C:\Users\cdman806\Documents\SY22-23\VB\tip calculator\tip calculator\obj\Debug\tip calculator.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cdman806\Documents\SY22-23\VB\tip calculator\tip calculator\obj\Debug\tip_calculator.Form1.resources
+C:\Users\cdman806\Documents\SY22-23\VB\tip calculator\tip calculator\obj\Debug\tip_calculator.Resources.resources
+C:\Users\cdman806\Documents\SY22-23\VB\tip calculator\tip calculator\obj\Debug\tip calculator.vbproj.GenerateResource.cache
+C:\Users\cdman806\Documents\SY22-23\VB\tip calculator\tip calculator\obj\Debug\tip calculator.vbproj.CoreCompileInputs.cache
+C:\Users\cdman806\Documents\SY22-23\VB\tip calculator\tip calculator\obj\Debug\tip calculator.exe
+C:\Users\cdman806\Documents\SY22-23\VB\tip calculator\tip calculator\obj\Debug\tip calculator.xml
+C:\Users\cdman806\Documents\SY22-23\VB\tip calculator\tip calculator\obj\Debug\tip calculator.pdb

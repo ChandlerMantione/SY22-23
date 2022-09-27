@@ -1,0 +1,20 @@
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\bin\Debug\Toy Store.exe.config
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\bin\Debug\Toy Store.exe
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\bin\Debug\Toy Store.pdb
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\bin\Debug\Toy Store.xml
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy Store.vbproj.AssemblyReference.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy Store.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy_Store.ShopForm.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy_Store.Resources.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy Store.vbproj.GenerateResource.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy Store.vbproj.CoreCompileInputs.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy Store.exe
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy Store.xml
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy Store.pdb
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy_Store.CartForm.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy_Store.PickleRickPlushForm.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy_Store.ButterflyPenForm.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy_Store.InfinityCubeForm.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy_Store.ChessBoardForm.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy_Store.ChineseFingerTrapForm.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Toy Store\Toy Store\obj\Debug\Toy_Store.CheckOutForm.resources
