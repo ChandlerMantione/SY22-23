@@ -22,6 +22,31 @@ MyGame
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:MyGame.My.Resources.Resources.Ark_Player">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.Ark_player_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.Ark_player_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.arkbeach">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.Dodo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:MyGame.My.Resources.Resources.donut_circle">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -33,6 +58,11 @@ MyGame
 </summary>
 </member>
 <member name="P:MyGame.My.Resources.Resources.Pokemonxy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyGame.My.Resources.Resources.Tree">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

@@ -2,6 +2,7 @@
     Const Speed As Integer = 10
     Dim direction As Point
 
+
     'This is where you can handle any collisions in the game
     '
     '  p1 has collided with p2
@@ -13,6 +14,9 @@
     Public Function Collision(p1 As PictureBox, p2 As PictureBox) As Boolean
         Debug.Print(p1.Name + " ran into " + p2.Name)
 
+        If p2.Name.ToUpper.StartsWith("PLAYER") Then 'remove targets when they are hit
+            MsgBox("Game Over")
+        End If
         'Any pictureboxes whose name start with TARGET that get run into will be removed
         If p2.Name.ToUpper.StartsWith("TARGET") Then 'remove targets when they are hit
             Remove(p2)
@@ -52,16 +56,14 @@
                 direction = New Point(Speed, 0)
                 moveto(Player, Speed, 0)
             Case Keys.Space
-                'Add a bullet in the direction the player is facing
-                AddAt(BulletPictureBox2, Player.Location, direction)
         End Select
     End Sub
 
     'You can make items appear using a time
     Private Sub Timer2_Tick(sender As Object, e As EventArgs) Handles Timer2.Tick
-        '   AddAt(BulletPictureBox2, New Point(0, 0), "CHASE")
-        'AddAt(BulletPictureBox2, New Point(10, 5), "FOLLOW")
-        AddAt(BulletPictureBox2, New Point(5, 15), "RANDOM")
+        AddAt(EnemyPictureBox1, New Point(0, 0), "CHASE")
+        AddAt(EnemyPictureBox2, New Point(50, 5), "FOLLOW")
+        AddAt(EnemyPictureBox3, New Point(34, 15), "RANDOM")
     End Sub
 
 
@@ -69,5 +71,7 @@
     Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
         UpdateGame()
     End Sub
-
+    Private Sub Timer3_Tick(sender As Object, e As EventArgs) Handles Timer3.Tick
+        TimerLabel.Text = Val(TimerLabel.Text) + 1
+    End Sub
 End Class
