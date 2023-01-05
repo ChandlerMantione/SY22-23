@@ -1,0 +1,21 @@
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\bin\Debug\net6.0-windows\fox text.exe
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\bin\Debug\net6.0-windows\fox text.deps.json
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\bin\Debug\net6.0-windows\fox text.runtimeconfig.json
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\bin\Debug\net6.0-windows\fox text.dll
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\bin\Debug\net6.0-windows\fox text.pdb
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\fox text.vbproj.AssemblyReference.cache
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\fox text_MarkupCompile.cache
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\fox text_MarkupCompile.lref
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\fox text.g.resources
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\fox text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\fox text.AssemblyInfoInputs.cache
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\fox text.AssemblyInfo.vb
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\fox text.vbproj.CoreCompileInputs.cache
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\fox text.dll
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\refint\fox text.dll
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\fox text.pdb
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\fox text.genruntimeconfig.cache
+C:\Users\cdman806\Documents\SY22-23\VB\fox text\fox text\obj\Debug\net6.0-windows\ref\fox text.dll
