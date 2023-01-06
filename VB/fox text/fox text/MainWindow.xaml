@@ -8,10 +8,43 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Menu>
+            <MenuItem Header="_File">
+                <MenuItem Header="_New"></MenuItem>
+                <MenuItem Header="_New Window"></MenuItem>
+                <MenuItem Header="_Open..."></MenuItem>
+                <MenuItem Header="_Save"></MenuItem>
+                <MenuItem Header="_Save As..."></MenuItem>
+                <MenuItem Header="_Page Setup..."></MenuItem>
+                <MenuItem Header="_Print..."></MenuItem>
+                <MenuItem Header="_Exit"></MenuItem>
+            </MenuItem>
             <MenuItem Header="_Edit">
+                <MenuItem Header="_Undo"></MenuItem>
                 <MenuItem Command="ApplicationCommands.Copy"/>
                 <MenuItem Command="ApplicationCommands.Cut"/>
                 <MenuItem Command="ApplicationCommands.Paste"/>
+                <MenuItem Header="_Delete"></MenuItem>
+                <MenuItem Header="_Search With Bing"></MenuItem>
+                <MenuItem Header="_Find..."></MenuItem>
+                <MenuItem Header="_Find Next"></MenuItem>
+                <MenuItem Header="_Find Previous"></MenuItem>
+                <MenuItem Header="_Replace"></MenuItem>
+                <MenuItem Header="_Go To"></MenuItem>
+                <MenuItem Header="_Set All"></MenuItem>
+                <MenuItem Header="_Time/Date"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="_Format">
+                <MenuItem Header="_Word Wrap"></MenuItem>
+                <MenuItem Header="_Font..."></MenuItem>
+            </MenuItem>
+            <MenuItem Header="_View">
+                <MenuItem Header="_Zoom"></MenuItem>
+                <MenuItem Header="_Status Bar"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="_Help">
+                <MenuItem Header="_View Help"></MenuItem>
+                <MenuItem Header="_Send Feedback"></MenuItem>
+                <MenuItem Header="_About Notepad"></MenuItem>
             </MenuItem>
             <MenuItem Header="_Font">
                 <MenuItem Header="_Bold" IsCheckable="True"
