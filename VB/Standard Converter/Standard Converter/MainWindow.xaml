@@ -1,0 +1,49 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local=  "clr-namespace:Standard_to_Metric_Converter"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="PeachPuff">
+        <ComboBox x:Name="standardvolumeCombo" HorizontalAlignment="Left" Margin="56,56,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Background="PeachPuff" Content="tablespoon"/>
+            <ComboBoxItem Background="PeachPuff" Content="fluid ounce"/>
+            <ComboBoxItem Background="PeachPuff" Content="gill"/>
+            <ComboBoxItem Background="PeachPuff" Content="cup"/>
+            <ComboBoxItem Background="PeachPuff" Content="pint"/>
+            <ComboBoxItem Background="PeachPuff" Content="quart"/>
+            <ComboBoxItem Background="PeachPuff" Content="gallon"/>
+
+        </ComboBox>
+        <ComboBox x:Name="standardLengthCombo" HorizontalAlignment="Left" Margin="405,56,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Background="PeachPuff" Content="inch"/>
+            <ComboBoxItem Background="PeachPuff" Content="foot"/>
+            <ComboBoxItem Background="PeachPuff" Content="yard"/>
+            <ComboBoxItem Background="PeachPuff" Content="mile"/>
+        </ComboBox>
+        <ComboBox x:Name="metricvolumeCombo" HorizontalAlignment="Left" Margin="181,56,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Background="PeachPuff" Content="milliliter"/>
+            <ComboBoxItem Background="PeachPuff" Content="liter"/>
+            <ComboBoxItem Background="PeachPuff" Content="kiloliter"/>
+        </ComboBox>
+
+        <ComboBox x:Name="metricLengthCombo" HorizontalAlignment="Left" Margin="530,56,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem Background="PeachPuff" Content="millimeter"/>
+            <ComboBoxItem Background="PeachPuff" Content="centimeter"/>
+            <ComboBoxItem Background="PeachPuff" Content="meter"/>
+            <ComboBoxItem Background="PeachPuff" Content="kilometer"/>
+        </ComboBox>
+        <Label Content="Volume" HorizontalAlignment="Left" Margin="155,30,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.077,-0.157"/>
+        <Label Content="Legnth" HorizontalAlignment="Left" Margin="510,30,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="fromTextBox" HorizontalAlignment="Left" Margin="208,169,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="toTextBox" HorizontalAlignment="Left" Margin="384,169,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="ClearButton" Content="Clear" HorizontalAlignment="Left" Margin="348,256,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="volumeConvertButton" Content="Volume Convert" HorizontalAlignment="Left" Margin="224,217,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="lengthConvertButton_" Content="Length Convert" HorizontalAlignment="Left" Margin="400,217,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.228,1.14"/>
+        <Label Content="From" HorizontalAlignment="Left" Margin="166,165,0,0" VerticalAlignment="Top"/>
+        <Label Content="To" HorizontalAlignment="Left" Margin="357,165,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
+

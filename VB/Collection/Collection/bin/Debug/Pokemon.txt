@@ -1,0 +1,10 @@
+Bulbasaur|Grass, Poison|1st|1st|#0001|Kanto|C:\Users\cdman806\Downloads\001.png
+Ivysaur|Grass, Poison|1st|2nd|#0002|Kanto|C:\Users\cdman806\Downloads\002.png
+Venusaur|Grass, Poison|1st|3rd|#0003|Kanto|C:\Users\cdman806\Downloads\003.png
+Charmander|Fire|1st|1st|#0004|Kanto|C:\Users\cdman806\Downloads\004.png
+Charmeleon|Fire|1st|2nd|#0005|Kanto|C:\Users\cdman806\Downloads\005.png
+Charizard|Fire, Flying|1st|3rd|#0006|Kanto|C:\Users\cdman806\Downloads\006.png
+Squirtle|Water|1st|1st|#0007|Kanto|C:\Users\cdman806\Downloads\007.png
+Wartortle|Water|1st|2nd|#0008|Kanto|C:\Users\cdman806\Downloads\008.png
+Blastoise|Water|1st|3rd|#0009|Kanto|C:\Users\cdman806\Downloads\009.png
+Caterpie|Bug|1st|1st|#0010|Kanto|C:\Users\cdman806\Downloads\010.png

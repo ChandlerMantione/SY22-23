@@ -1,0 +1,21 @@
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\Currency Converter.vbproj.AssemblyReference.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\Currency Converter_MarkupCompile.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\Currency Converter.g.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\Currency Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\Currency Converter.AssemblyInfoInputs.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\Currency Converter.AssemblyInfo.vb
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\Currency Converter.vbproj.CoreCompileInputs.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\bin\Debug\net6.0-windows\Currency Converter.exe
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\bin\Debug\net6.0-windows\Currency Converter.deps.json
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\bin\Debug\net6.0-windows\Currency Converter.runtimeconfig.json
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\bin\Debug\net6.0-windows\Currency Converter.dll
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\bin\Debug\net6.0-windows\Currency Converter.pdb
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\Currency Converter.dll
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\refint\Currency Converter.dll
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\Currency Converter.pdb
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\Currency Converter.genruntimeconfig.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\ref\Currency Converter.dll
+C:\Users\cdman806\Documents\SY22-23\VB\Currency Converter\Currency Converter\obj\Debug\net6.0-windows\Currency Converter_MarkupCompile.lref

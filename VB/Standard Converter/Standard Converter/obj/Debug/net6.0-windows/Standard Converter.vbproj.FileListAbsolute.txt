@@ -1,0 +1,21 @@
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\bin\Debug\net6.0-windows\Standard Converter.exe
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\bin\Debug\net6.0-windows\Standard Converter.deps.json
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\bin\Debug\net6.0-windows\Standard Converter.runtimeconfig.json
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\bin\Debug\net6.0-windows\Standard Converter.dll
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\bin\Debug\net6.0-windows\Standard Converter.pdb
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\Standard Converter.vbproj.AssemblyReference.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\Standard Converter_MarkupCompile.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\Standard Converter_MarkupCompile.lref
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\Standard Converter.g.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\Standard Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\Standard Converter.AssemblyInfoInputs.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\Standard Converter.AssemblyInfo.vb
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\Standard Converter.vbproj.CoreCompileInputs.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\Standard Converter.dll
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\refint\Standard Converter.dll
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\Standard Converter.pdb
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\Standard Converter.genruntimeconfig.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Standard Converter\Standard Converter\obj\Debug\net6.0-windows\ref\Standard Converter.dll

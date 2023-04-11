@@ -11,12 +11,12 @@
             <MenuItem Header="_File">
                 <MenuItem Header="_New"></MenuItem>
                 <MenuItem Header="_New Window"></MenuItem>
-                <MenuItem Header="_Open..."></MenuItem>
-                <MenuItem Header="_Save"></MenuItem>
+                <MenuItem Header="_Open..." Click="Save_Click"></MenuItem>
+                <MenuItem Header="_Save" Click="Save_Click"></MenuItem>
                 <MenuItem Header="_Save As..."></MenuItem>
                 <MenuItem Header="_Page Setup..."></MenuItem>
                 <MenuItem Header="_Print..."></MenuItem>
-                <MenuItem Header="_Exit"></MenuItem>
+                <MenuItem Header="_Exit" Click="Exit_Click"></MenuItem>
             </MenuItem>
             <MenuItem Header="_Edit">
                 <MenuItem Header="_Undo"></MenuItem>

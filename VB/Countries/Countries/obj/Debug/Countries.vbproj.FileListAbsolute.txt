@@ -1,0 +1,13 @@
+C:\Users\cdman806\Documents\SY22-23\VB\Countries\Countries\bin\Debug\Countries.exe.config
+C:\Users\cdman806\Documents\SY22-23\VB\Countries\Countries\bin\Debug\Countries.exe
+C:\Users\cdman806\Documents\SY22-23\VB\Countries\Countries\bin\Debug\Countries.pdb
+C:\Users\cdman806\Documents\SY22-23\VB\Countries\Countries\bin\Debug\Countries.xml
+C:\Users\cdman806\Documents\SY22-23\VB\Countries\Countries\obj\Debug\Countries.vbproj.AssemblyReference.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Countries\Countries\obj\Debug\Countries.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Countries\Countries\obj\Debug\Countries.Form1.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Countries\Countries\obj\Debug\Countries.Resources.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Countries\Countries\obj\Debug\Countries.vbproj.GenerateResource.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Countries\Countries\obj\Debug\Countries.vbproj.CoreCompileInputs.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Countries\Countries\obj\Debug\Countries.exe
+C:\Users\cdman806\Documents\SY22-23\VB\Countries\Countries\obj\Debug\Countries.xml
+C:\Users\cdman806\Documents\SY22-23\VB\Countries\Countries\obj\Debug\Countries.pdb

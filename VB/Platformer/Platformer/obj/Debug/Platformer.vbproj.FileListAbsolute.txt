@@ -1,0 +1,13 @@
+C:\Users\cdman806\Documents\SY22-23\VB\Platformer\Platformer\obj\Debug\Platformer.vbproj.AssemblyReference.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Platformer\Platformer\obj\Debug\Platformer.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Platformer\Platformer\obj\Debug\Platformer.From2DPlatformer.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Platformer\Platformer\obj\Debug\Platformer.Resources.resources
+C:\Users\cdman806\Documents\SY22-23\VB\Platformer\Platformer\obj\Debug\Platformer.vbproj.GenerateResource.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Platformer\Platformer\obj\Debug\Platformer.vbproj.CoreCompileInputs.cache
+C:\Users\cdman806\Documents\SY22-23\VB\Platformer\Platformer\bin\Debug\Platformer.exe.config
+C:\Users\cdman806\Documents\SY22-23\VB\Platformer\Platformer\bin\Debug\Platformer.exe
+C:\Users\cdman806\Documents\SY22-23\VB\Platformer\Platformer\bin\Debug\Platformer.pdb
+C:\Users\cdman806\Documents\SY22-23\VB\Platformer\Platformer\bin\Debug\Platformer.xml
+C:\Users\cdman806\Documents\SY22-23\VB\Platformer\Platformer\obj\Debug\Platformer.exe
+C:\Users\cdman806\Documents\SY22-23\VB\Platformer\Platformer\obj\Debug\Platformer.xml
+C:\Users\cdman806\Documents\SY22-23\VB\Platformer\Platformer\obj\Debug\Platformer.pdb

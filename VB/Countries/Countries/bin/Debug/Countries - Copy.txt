@@ -1,0 +1,10 @@
+USA|D.C|350M|2.97Million Miles|C:\Users\cdman806\Downloads\US.png
+Japan|Tokyo|125.7M|145,936 mi²|C:\Users\cdman806\Downloads\Japan.png
+Saudi arabia|Riyadh|35.95M|830,000 mi²|C:\Users\cdman806\Downloads\Flag_of_Saudi_Arabia.png
+canada|Ottawa|38.25M|3.855 million mi²|C:\Users\cdman806\Downloads\ca-flag.jpg
+iran|Tehran|87.92M|636,400 mi²|C:\Users\cdman806\Downloads\Iran.jpg
+afghanistan|Kabul|40.1M|252,071 mi²|C:\Users\cdman806\Downloads\Afganastan Flag.png
+albania|Tirana|2.812M|11,100 mi²|C:\Users\cdman806\Downloads\Albania Flag.png
+algeria|Algiers|44.18M|919,600 mi²|C:\Users\cdman806\Downloads\Flag_of_Algeria.svg.png
+andorra|Andorra la Vella|79,034|180.7 mi²|C:\Users\cdman806\Downloads\Flag_of_Andorra.svg.png
+angola|Luanda|34.5M|481,400 mi²|C:\Users\cdman806\Downloads\Flag_of_Angola.svg.png
