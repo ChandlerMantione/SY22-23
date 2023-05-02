@@ -25,7 +25,7 @@ Public Class Form1
             C.Total = C.Total + 0.25 * 1000
             Label1.Text = C.Total
             MsgBox("Big Win")
-        ElseIf num1 = 1 Or num1 = 2 Or num1 = 6 Or num1 = 7 And num2 = 1 Or num2 = 2 Or num2 = 6 Or num2 = 7 And num3 = 1 Or num3 = 2 Or num3 = 6 Or num3 = 7 Then
+        ElseIf (num1 = 1 Or num1 = 2 Or num1 = 6 Or num1 = 7) And (num2 = 1 Or num2 = 2 Or num2 = 6 Or num2 = 7) And (num3 = 1 Or num3 = 2 Or num3 = 6 Or num3 = 7) Then
             C.Total = C.Total + 0.25 * 25
             Label1.Text = C.Total
             MsgBox("Fruit Win")
