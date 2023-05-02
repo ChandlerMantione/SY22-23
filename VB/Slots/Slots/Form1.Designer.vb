@@ -172,7 +172,7 @@ Partial Class Form1
         Me.TextBox1.Location = New System.Drawing.Point(263, 142)
         Me.TextBox1.Multiline = True
         Me.TextBox1.Name = "TextBox1"
-        Me.TextBox1.Size = New System.Drawing.Size(227, 44)
+        Me.TextBox1.Size = New System.Drawing.Size(231, 57)
         Me.TextBox1.TabIndex = 17
         Me.TextBox1.Text = "Ways to win: 3 of a kind pays 100 to 1, 7s Pays 1000 to 1, Fruit Pays 25 to 1"
         '
