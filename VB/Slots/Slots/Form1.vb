@@ -18,15 +18,15 @@ Public Class Form1
         PictureBox2.Image = ImageList1.Images(num2)
         PictureBox3.Image = ImageList1.Images(num3)
         If num1 = num2 And num2 = num3 Then
-            C.Total = C.Total + 0.25 * 100
+            C.Total = C.Total + 0.25 * 50
             Label1.Text = C.Total
             MsgBox("Small Win")
         ElseIf num1 = 0 And num2 = 0 And num3 = 0 Then
-            C.Total = C.Total + 0.25 * 1000
+            C.Total = C.Total + 0.25 * 100
             Label1.Text = C.Total
             MsgBox("Big Win")
         ElseIf (num1 = 1 Or num1 = 2 Or num1 = 6 Or num1 = 7) And (num2 = 1 Or num2 = 2 Or num2 = 6 Or num2 = 7) And (num3 = 1 Or num3 = 2 Or num3 = 6 Or num3 = 7) Then
-            C.Total = C.Total + 0.25 * 25
+            C.Total = C.Total + 0.25 * 10
             Label1.Text = C.Total
             MsgBox("Fruit Win")
         End If
@@ -53,5 +53,9 @@ Public Class Form1
 
     Private Sub DispenseButton_Click(sender As Object, e As EventArgs) Handles DispenseButton.Click
         Label1.Text = 0
+    End Sub
+
+    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
+
     End Sub
 End Class
